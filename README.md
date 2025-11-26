@@ -73,6 +73,17 @@ The app includes a modern **PyQt6 interface**, automatic device discovery, and a
 
 ---
 
+## 🖼️ Screenshots
+
+###  Sender Dashboard  
+<img src="ScreenShots/sender dashboard.png" alt="Login Page" width="600">
+
+### Receiver Dashboard 
+<img src="ScreenShots/receiver dashboard.png" alt="Welcome Page" width="600">
+
+
+---
+
 ## 📥 **Installation**
 
 ### 1. Install dependencies
@@ -123,3 +134,9 @@ python main.py
 * Jitter buffers for tighter sync
 * Volume control per receiver
 * Network quality indicators
+
+### Team Members
+- Parikshit V
+- Dhiyanesh B
+
+Email: dhiyanesh.b.19@gmail.com
