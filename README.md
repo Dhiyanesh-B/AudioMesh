@@ -76,10 +76,10 @@ The app includes a modern **PyQt6 interface**, automatic device discovery, and a
 ## 🖼️ Screenshots
 
 ###  Sender Dashboard  
-<img src="ScreenShots/sender dashboard.png" alt="Login Page" width="600">
+<img src="screenshots/sender dashboard.png" alt="Login Page" width="600">
 
 ### Receiver Dashboard 
-<img src="ScreenShots/receiver dashboard.png" alt="Welcome Page" width="600">
+<img src="screenshots/receiver dashboard.png" alt="Welcome Page" width="600">
 
 
 ---
